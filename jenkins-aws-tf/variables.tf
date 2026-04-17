@@ -13,3 +13,11 @@ variable "key_name" {
 variable "allowed_ip" {
   description = "Your IP for SSH access"
 }
+
+variable "aws_access_key" {
+  description = "Your IP for SSH access"
+}
+
+variable "aws_secret_key" {
+  description = "Your IP for SSH access"
+}
