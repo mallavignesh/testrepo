@@ -1,0 +1,7 @@
+# Ignore local install artifacts and AWS CLI installer files
+awscliv2.zip
+aws/
+
+# Python artifacts
+__pycache__/
+*.pyc
